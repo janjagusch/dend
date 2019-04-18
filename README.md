@@ -1,5 +1,7 @@
 # Data Engineering Nanodegree
 
+This repository summarizes my work for the [Data Engineering Nanodegree](https://eu.udacity.com/course/data-engineer-nanodegree--nd027) at [Udacity](https://eu.udacity.com/).
+
 ## Projects
 
 ### 1. [Data Modeling with PostgreSQL](https://github.com/jbj2505/dend_01_data_modeling_postgres)
